@@ -9,9 +9,9 @@ Don't be a fool. Consider your risks and rewards and invest wisely!
 2. [What it does](#what-it-does)
 3. [How we built it](#how-we-built-it)
 4. [Challenges we ran into](#challenges-we-ran-into)
-5. [Accomplishments that we're proud of](#accomplishments-that-we're-proud-of)
-6. [What we learned](what-we-learned)
-7. [What's next for Investise](what's-next-for-investise)
+5. [Accomplishments proud of](#accomplishments-proud-of)
+6. [What we learned](#what-we-learned)
+7. [What is next for Investise](#what-is-next-for-investise)
 
 # Inspiration
 
@@ -106,7 +106,7 @@ The Sharpe Ratio uses the difference in returns between the two investment oppor
 However, our data reflect the historical value of each investment, not the return.
 To calculate the return, we need to calculate the percentage change in value from one day to the next. We will also look at the summary statistics as this will be our input as we calculate the Sharpe Ratio.
 
-## Accomplishments that we're proud of
+## Accomplishments proud of
 
 This being the first project I have in the field of data and analytics, everything that I did with the project was an achievement.
 
@@ -114,6 +114,6 @@ This being the first project I have in the field of data and analytics, everythi
 
 Playing around with data, sharpe ratio for finances, and sticking around with the idea even when you think it might not work out
 
-## What's next for Investise
+## What is next for Investise
 
 Hmm, well I intend to build this with a website with cool data feeding and visualizing type features. Basically generalizing it. Right now, this is just a prototype.
