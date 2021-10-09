@@ -1,10 +1,23 @@
+<img width="598" alt="Screenshot 2021-10-09 at 19 39 21" src="https://user-images.githubusercontent.com/92206277/136663298-b0a85204-23b0-4bd9-8c40-d2bde12de57a.png">
+
 # Investise
 Don't be a fool. Consider your risks and rewards and invest wisely!
-## Inspiration
+
+### Readme Contents:
+
+1. [Inspiration](#inspiration)
+2. [What it does](#what-it-does)
+3. How we built it()
+4. Challenges we ran into
+5. Accomplishments that we're proud of
+6. What we learned
+7. What's next for Investise
+
+# Inspiration
 
 The investment would make sense if we expected it to bring back more money than it costs. But returns are only one side of the story because it is dangerous - there can be a variety of outcomes. How does one compare different investments that can bring the same results on average, but show different levels of risk?
 
-## What it does
+# What it does
 
 **William Sharpe is our man.**
 
