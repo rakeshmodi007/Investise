@@ -30,7 +30,9 @@ The Sharpe rate is generally calculated for the portfolio and uses the risk-free
 So let’s visualize and see for ourselves about Sharpe’s rating by counting down the shares of two tech giants Facebook and Amazon. As a benchmark, we will use the S&P 500 which measures the performance of 500 major US stocks. When we use the stock index instead of a risk level, the result is called Information Ratio and is used to mark a return on active portfolio management because it tells you how much to reimburse a given unit risk to your fund manager in terms of just putting your money in a low-cost fund.
 
 ## How we built it
+
 **About the data**
+
 This is the Stock Data:
 
 <img width="1144" alt="Screenshot 2021-10-09 at 20 05 15" src="https://user-images.githubusercontent.com/92206277/136662391-94c16c06-5149-4cdb-a7ac-05c3fe96ce69.png">
