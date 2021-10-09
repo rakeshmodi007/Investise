@@ -61,23 +61,24 @@ Calculating the annualized sharpe ratio:
 The Sharpe Ratio uses the difference in returns between the two investment opportunities under consideration.
 
 However, our data show the historical value of each investment, not the _return_.
-To calculate the return, we need to calculate the percentage change in value from one day to the next. We'll also take a look at the summary statistics because these will become our inputs as we calculate the Sharpe Ratio.
 
-For the S&P 500 data, calculating daily returns works just the same way.
+- [x] To calculate the return, we need to calculate the percentage change in value from one day to the next. We'll also take a look at the summary statistics because these will become our inputs as we calculate the Sharpe Ratio.
 
-We need to calculate the relative performance of stocks compared to the S&P 500 benchmark. **This is calculated as the difference in returns between stock_returns and sp_returns for each day.**
+- [x] For the S&P 500 data, calculating daily returns works just the same way.
+
+- [x] We need to calculate the relative performance of stocks compared to the S&P 500 benchmark. **This is calculated as the difference in returns between stock_returns and sp_returns for each day.**
 
 **Now we can finally start computing the Sharpe Ratio.** 
 
-First, we need to calculate the average of the excess_returns. This tells us how much more or less the investment yields per day as compared to the benchmark.
+- [x] First, we need to calculate the average of the excess_returns. This tells us how much more or less the investment yields per day as compared to the benchmark.
 
-Next, we calculate the standard deviation of the excess_returns. This shows us the amount of risk investment in the stocks implies as compared to an investment in the S&P 500.
+- [x] Next, we calculate the standard deviation of the excess_returns. This shows us the amount of risk investment in the stocks implies as compared to an investment in the S&P 500.
 
-Now we just need to compute the ratio of avg_excess_returns and sd_excess_returns. 
+- [x] Now we just need to compute the ratio of avg_excess_returns and sd_excess_returns. 
 
-The result is now finally the Sharpe ratio and indicates how much more (or less) return the investment opportunity under consideration yields per unit of risk.
+- [x] The result is now finally the Sharpe ratio and indicates how much more (or less) return the investment opportunity under consideration yields per unit of risk.
 
-The Sharpe Ratio is often annualized by multiplying it by the square root of the number of periods. We have used daily data as input, so we'll use the square root of the number of trading days (5 days, 52 weeks, minus a few holidays): √252
+- [x] The Sharpe Ratio is often annualized by multiplying it by the square root of the number of periods. We have used daily data as input, so we'll use the square root of the number of trading days (5 days, 52 weeks, minus a few holidays): √252
 
 **Conclusion**
 
