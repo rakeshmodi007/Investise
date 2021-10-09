@@ -7,11 +7,11 @@ Don't be a fool. Consider your risks and rewards and invest wisely!
 
 1. [Inspiration](#inspiration)
 2. [What it does](#what-it-does)
-3. How we built it()
-4. Challenges we ran into
-5. Accomplishments that we're proud of
-6. What we learned
-7. What's next for Investise
+3. [How we built it](#how-we-built-it)
+4. [Challenges we ran into](#challenges-we-ran-into)
+5. [Accomplishments that we're proud of](#accomplishments-that-we're-proud-of)
+6. [What we learned](what-we-learned)
+7. [What's next for Investise](what's-next-for-investise)
 
 # Inspiration
 
